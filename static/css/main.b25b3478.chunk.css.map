@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pagination.scss"],"names":[],"mappings":"AAAA,kBACE,4BAAqB,CAArB,oBAAqB,CACrB,oBAA8B,CAC9B,WAAY,CACb,iBAGC,eAAgB,CAChB,WAAY","file":"main.b25b3478.chunk.css","sourcesContent":[".page-link_active {\n  transform: scale(1.2);\n  border-color: rgb(100,100,100);\n  z-index: 999;\n}\n\n.page-link:focus {\n  box-shadow: none;\n  z-index: 999;\n}\n"]}
